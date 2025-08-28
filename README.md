@@ -8,5 +8,9 @@ Atualmente, o bazar conta apenas com divulgações via redes sociais. O objetivo
 
 ---------
 
+![alt text](http://url/to/Wireframe.jpeg)
+
+---------
+
 Gustavo O. Sperandio - 10737356
 Gustavo B. Silva - 10732145
