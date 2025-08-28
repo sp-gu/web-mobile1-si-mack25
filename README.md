@@ -8,7 +8,7 @@ Atualmente, o bazar conta apenas com divulgações via redes sociais. O objetivo
 
 ---------
 
-![alt text](http://url/to/Wireframe.jpeg)
+![Wireframe](https://github.com/sp-gu/web-mobile1-si-mack25/blob/main/Wireframe.jpeg)
 
 ---------
 
