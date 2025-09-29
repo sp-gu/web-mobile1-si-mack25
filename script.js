@@ -2,25 +2,22 @@ window.onload = function() {
         // MAP
         const produtos = [
             { nome: "Produto 1",
-                nomeIMG: "img/bazar-beneficente.png"
+                nomeIMG: "img/blusa.jpg"
             },
             { nome: "Produto 2",
-                nomeIMG: "img/bazar-beneficente.png"
+                nomeIMG: "img/calca.jpg"
             },
             { nome: "Produto 3",
-                nomeIMG: "img/bazar-beneficente.png"
+                nomeIMG: "img/saia.jpeg"
             },
             { nome: "Produto 4",
-                nomeIMG: "img/bazar-beneficente.png"
+                nomeIMG: "img/brinco.jpg"
             },
             { nome: "Produto 5",
-                nomeIMG: "img/bazar-beneficente.png"
+                nomeIMG: "img/salto.jpg"
             },
             { nome: "Produto 6",
-                nomeIMG: "img/bazar-beneficente.png"
-            },
-            { nome: "Produto 7",
-                nomeIMG: "img/bazar-beneficente.png"
+                nomeIMG: "img/colar.jpg"
             }
         ]
         const table = document.getElementById("produtos");
