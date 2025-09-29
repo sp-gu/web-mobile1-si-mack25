@@ -19,7 +19,7 @@ header{
 }
 
 header h2{
-    color: #473668;
+    color: #463973;
     font-family: "Monoton", sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -44,7 +44,7 @@ nav ul li a{
 /*TOPO SITE*/
 
 .topo-site{
-    background-image: url(img/bazar-beneficente.png);
+    background-image: url(img/bazar.jpg);
     background-size: cover;
     height: 300px;
     display: flex;
@@ -170,6 +170,7 @@ background-image: url("img/bazar-beneficente.png");
     display: flex;
     flex-direction: row;
     justify-content: center;
+    align-items: center;
     text-align: center;
     background-color: #463973;
     color: white;
@@ -178,6 +179,11 @@ background-image: url("img/bazar-beneficente.png");
 .rodape article{
     padding: 50px;
 }
+
+.rodape h4, p{
+    font-size: 20px;
+}
+
 
 @media (max-width: 800px) {
     header {
