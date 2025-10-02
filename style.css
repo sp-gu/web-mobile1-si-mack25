@@ -176,6 +176,10 @@ background-image: url("img/bazar-beneficente.png");
     color: white;
 }
 
+.rodape h4, p{
+    font-size: 20px;
+}
+
 .rodape article{
     padding: 50px;
 }
@@ -215,7 +219,7 @@ background-image: url("img/bazar-beneficente.png");
     }
 
     #saiba-mais {
-        width: 100%;
+        width: 30%;
         height: 40px;
         margin-top: 10px;
     }
@@ -223,6 +227,11 @@ background-image: url("img/bazar-beneficente.png");
     .produtos-destaque {
         padding: 10px;
         max-width: 100%;
+    }
+
+    .produtos-destaque h1{
+        text-align: center;
+        font-size: 200%;
     }
 
     .produtos {
