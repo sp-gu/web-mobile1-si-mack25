@@ -110,7 +110,7 @@ nav ul li a{
     font-style: normal;
 }
 
-.produtos{
+#produtos{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
