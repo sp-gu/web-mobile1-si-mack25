@@ -24,7 +24,7 @@ window.onload = function() {
         ]
         const table = document.getElementById("produtos");
         produtos.map(produto => {
-            let produtoHTML = `<div id="produto">
+            let produtoHTML = `<div id="produtos">
                                 <img src=${produto.nomeIMG} alt="Foto de um produto" srcset="">
                             <h2>${produto.nome}</h2>
                         </div>`;
