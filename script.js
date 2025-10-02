@@ -1,5 +1,6 @@
 window.onload = function() {
-    this.alert("Bem-vindo(a) ao Bazar Heleninha!");
+    var nome = prompt("Olá! Qual o seu nome?");
+    this.alert("Bem-vindo(a) ao Bazar Heleninha, " + nome + "!");
         // MAP
         const produtos = [
             { nome: "Produto 1",
