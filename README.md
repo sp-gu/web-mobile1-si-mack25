@@ -24,6 +24,14 @@ No footer, links de redirecionamento para o instagram do bazar e um iframe conte
 
 -----------
 
+CHECK-IN 3
+
+Para finalizar o nosso projeto lagarta, implementamos o código Java Script com 3 elementos:
+1. Função map() para inserir as imagens dos produtos sem repetir o código HTML, usando um array com objetos;
+2. Um prompt que capta o nome do usuário ao entrar no site, e;
+3. Um alert que escreve "Bem vindo, {nome_user}!" na tela.
+
+----------
 
 Gustavo O. Sperandio - 10737356
 Gustavo B. Silva - 10732145
