@@ -30,13 +30,4 @@ window.onload = function() {
                         </div>`;
                 table.innerHTML += produtoHTML;
         });
-
-        this.onclick()
     }
-
-const contato = document.getElementById('contato');
-
-contato.addEventListener('click', function(event) {
-  event.preventDefault(); 
-  prompt("Você deseja entrar em contato? (y/n)");
-});

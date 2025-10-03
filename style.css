@@ -110,18 +110,28 @@ nav ul li a{
     font-style: normal;
 }
 
-#produtos{
+#produtos {
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
     flex-wrap: wrap;
-    max-width: 1000px;
-    padding: 20px 50px;
+    gap: 30px;
+    justify-content: center;
+    padding: 20px 0;
 }
 
-#produto img{
-    width: 300px;
-    height: 250px;
+#produtos .produto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px #d49ec5;
+    padding: 10px;
+}
+
+#produtos img{
+    width: 200px;
+    height: 200px;
 }
 
 /*Parallax*/
@@ -234,7 +244,7 @@ background-image: url("img/bazar-beneficente.png");
         font-size: 200%;
     }
 
-    .produtos {
+    #produtos {
         flex-direction: column;
         align-items: center;
         padding: 10px 0;
@@ -242,7 +252,7 @@ background-image: url("img/bazar-beneficente.png");
         max-width: 100%;
     }
 
-    .produto img {
+    #produto img {
         width: 90vw;
         max-width: 300px;
         height: auto;
@@ -270,5 +280,9 @@ background-image: url("img/bazar-beneficente.png");
 
     .middle iframe {
         height: 180px;
+    }
+
+    .left-side{
+        margin: 10px 10px;
     }
 }
